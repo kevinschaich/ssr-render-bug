@@ -1,4 +1,3 @@
 export default function Loading() {
-    // You can add any UI inside Loading, including a Skeleton.
-    return <div className="bg-red-500">asdfasdfasdf</div>;
+    return <div className="bg-red-500">Loading</div>
 }
